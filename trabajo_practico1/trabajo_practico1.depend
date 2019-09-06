@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554439406 source:c:\users\asus\downloads\trabajo_practico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1554438981 c:\users\asus\downloads\trabajo_practico1\funciones.h
+
+1554438410 source:c:\users\asus\downloads\trabajo_practico1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
