@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1557477010 source:c:\users\maquina\desktop\desdeelprincipio-master\programacion c\11 estructuras y mas funcines\tp_2laboratorio\funcionesgenerales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1557524758 source:c:\users\maquina\desktop\desdeelprincipio-master\programacion c\11 estructuras y mas funcines\tp_2laboratorio\empleados.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcionesGenerales.h"
+	"empleados.h"
+
+1557477019 c:\users\maquina\desktop\desdeelprincipio-master\programacion c\11 estructuras y mas funcines\tp_2laboratorio\funcionesgenerales.h
+
+1557524487 c:\users\maquina\desktop\desdeelprincipio-master\programacion c\11 estructuras y mas funcines\tp_2laboratorio\empleados.h
+
+1557524444 source:c:\users\maquina\desktop\desdeelprincipio-master\programacion c\11 estructuras y mas funcines\tp_2laboratorio\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcionesGenerales.h"
+	"empleados.h"
+
+1560567639 source:c:\users\luisp\downloads\mis trabajos practicos\tp_laboratorio1-master\tp_2laboratorio\empleados.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcionesGenerales.h"
+	"empleados.h"
+
+1560567639 c:\users\luisp\downloads\mis trabajos practicos\tp_laboratorio1-master\tp_2laboratorio\funcionesgenerales.h
+
+1560567639 c:\users\luisp\downloads\mis trabajos practicos\tp_laboratorio1-master\tp_2laboratorio\empleados.h
+
+1560567639 source:c:\users\luisp\downloads\mis trabajos practicos\tp_laboratorio1-master\tp_2laboratorio\funcionesgenerales.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1560567639 source:c:\users\luisp\downloads\mis trabajos practicos\tp_laboratorio1-master\tp_2laboratorio\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcionesGenerales.h"
+	"empleados.h"
+
